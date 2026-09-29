@@ -41,5 +41,5 @@ Set `GEMINI_API_KEY` (free at https://aistudio.google.com/apikey), or run
 
 ## Follow the series
 
-- LinkedIn: new episode every week
+- LinkedIn: [@MahendharJakkula](https://www.linkedin.com/in/mahendhar-jakkula/)
 - Instagram: [@codingwithmahi](https://instagram.com/codingwithmahi)
