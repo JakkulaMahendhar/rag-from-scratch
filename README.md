@@ -8,7 +8,7 @@ locally with Ollama.
 | # | Episode | Notebook |
 |---|---|---|
 | 1 | Why RAG? Watching an LLM fail on your data, then fixing it | [01_why_rag.ipynb](notebooks/01_why_rag.ipynb) · [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JakkulaMahendhar/rag-from-scratch/blob/main/notebooks/01_why_rag.ipynb) |
-| 2 | Architecture: one request, end to end | coming soon |
+| 2 | Architecture: one request, end to end | [02_architecture.ipynb](notebooks/02_architecture.ipynb) · [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JakkulaMahendhar/rag-from-scratch/blob/main/notebooks/02_architecture.ipynb) |
 | 3 | Parsing PDF / DOCX / TXT | coming soon |
 | 4 | Chunking strategies | coming soon |
 | 5 | Embeddings | coming soon |
