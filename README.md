@@ -10,7 +10,7 @@ locally with Ollama.
 | 1 | Why RAG? Watching an LLM fail on your data, then fixing it | [01_why_rag.ipynb](notebooks/01_why_rag.ipynb) · [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JakkulaMahendhar/rag-from-scratch/blob/main/notebooks/01_why_rag.ipynb) |
 | 2 | Architecture: one request, end to end | [02_architecture.ipynb](notebooks/02_architecture.ipynb) · [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JakkulaMahendhar/rag-from-scratch/blob/main/notebooks/02_architecture.ipynb) |
 | 3 | Parsing PDF / DOCX / TXT | [03_parsing.ipynb](notebooks/03_parsing.ipynb) · [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JakkulaMahendhar/rag-from-scratch/blob/main/notebooks/03_parsing.ipynb) |
-| 4 | Chunking strategies | coming soon |
+| 4 | Chunking strategies | [04_chunking.ipynb](notebooks/04_chunking.ipynb) · [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JakkulaMahendhar/rag-from-scratch/blob/main/notebooks/04_chunking.ipynb) |
 | 5 | Embeddings | coming soon |
 | 6 | Vector DB with ChromaDB | coming soon |
 | 7 | Keyword search with BM25 | coming soon |
