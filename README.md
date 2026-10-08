@@ -13,7 +13,7 @@ locally with Ollama.
 | 4 | Chunking strategies | [04_chunking.ipynb](notebooks/04_chunking.ipynb) · [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JakkulaMahendhar/rag-from-scratch/blob/main/notebooks/04_chunking.ipynb) |
 | 5 | Embeddings | [05_embeddings.ipynb](notebooks/05_embeddings.ipynb) · [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JakkulaMahendhar/rag-from-scratch/blob/main/notebooks/05_embeddings.ipynb) |
 | 6 | Vector DB with ChromaDB | [06_vector_db.ipynb](notebooks/06_vector_db.ipynb) · [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JakkulaMahendhar/rag-from-scratch/blob/main/notebooks/06_vector_db.ipynb) |
-| 7 | Keyword search with BM25 | coming soon |
+| 7 | Keyword search with BM25 | [07_bm25.ipynb](notebooks/07_bm25.ipynb) · [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JakkulaMahendhar/rag-from-scratch/blob/main/notebooks/07_bm25.ipynb) |
 | 8 | Hybrid search | coming soon |
 | 9 | Query enhancement | coming soon |
 | 10 | Reranking with a CrossEncoder | coming soon |
