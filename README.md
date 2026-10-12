@@ -15,7 +15,7 @@ locally with Ollama.
 | 6 | Vector DB with ChromaDB | [06_vector_db.ipynb](notebooks/06_vector_db.ipynb) · [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JakkulaMahendhar/rag-from-scratch/blob/main/notebooks/06_vector_db.ipynb) |
 | 7 | Keyword search with BM25 | [07_bm25.ipynb](notebooks/07_bm25.ipynb) · [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JakkulaMahendhar/rag-from-scratch/blob/main/notebooks/07_bm25.ipynb) |
 | 8 | Hybrid search | [08_hybrid_search.ipynb](notebooks/08_hybrid_search.ipynb) · [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JakkulaMahendhar/rag-from-scratch/blob/main/notebooks/08_hybrid_search.ipynb) |
-| 9 | Query enhancement | coming soon |
+| 9 | Query enhancement | [09_query_enhancement.ipynb](notebooks/09_query_enhancement.ipynb) · [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JakkulaMahendhar/rag-from-scratch/blob/main/notebooks/09_query_enhancement.ipynb) |
 | 10 | Reranking with a CrossEncoder | coming soon |
 | 11 | The reranker threshold bug | coming soon |
 | 12 | Context engineering | coming soon |
