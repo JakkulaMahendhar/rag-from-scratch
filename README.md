@@ -17,7 +17,7 @@ locally with Ollama.
 | 8 | Hybrid search | [08_hybrid_search.ipynb](notebooks/08_hybrid_search.ipynb) · [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JakkulaMahendhar/rag-from-scratch/blob/main/notebooks/08_hybrid_search.ipynb) |
 | 9 | Query enhancement | [09_query_enhancement.ipynb](notebooks/09_query_enhancement.ipynb) · [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JakkulaMahendhar/rag-from-scratch/blob/main/notebooks/09_query_enhancement.ipynb) |
 | 10 | Reranking with a CrossEncoder | [10_reranking.ipynb](notebooks/10_reranking.ipynb) · [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JakkulaMahendhar/rag-from-scratch/blob/main/notebooks/10_reranking.ipynb) |
-| 11 | The reranker threshold bug | coming soon |
+| 11 | The reranker threshold bug | [11_reranker_threshold.ipynb](notebooks/11_reranker_threshold.ipynb) · [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JakkulaMahendhar/rag-from-scratch/blob/main/notebooks/11_reranker_threshold.ipynb) |
 | 12 | Context engineering | coming soon |
 | 13 | Prompt building for grounded answers | coming soon |
 | 14 | Swappable LLMs: Gemini vs Ollama | coming soon |
