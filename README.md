@@ -21,7 +21,7 @@ locally with Ollama.
 | 12 | Context engineering | [12_context_engineering.ipynb](notebooks/12_context_engineering.ipynb) · [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JakkulaMahendhar/rag-from-scratch/blob/main/notebooks/12_context_engineering.ipynb) |
 | 13 | Prompt building for grounded answers | [13_prompt_building.ipynb](notebooks/13_prompt_building.ipynb) · [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JakkulaMahendhar/rag-from-scratch/blob/main/notebooks/13_prompt_building.ipynb) |
 | 14 | Swappable LLMs: Gemini vs Ollama | [14_swappable_llms.ipynb](notebooks/14_swappable_llms.ipynb) · [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JakkulaMahendhar/rag-from-scratch/blob/main/notebooks/14_swappable_llms.ipynb) |
-| 15 | Hallucination guard | coming soon |
+| 15 | Hallucination guard | [15_hallucination_guard.ipynb](notebooks/15_hallucination_guard.ipynb) · [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JakkulaMahendhar/rag-from-scratch/blob/main/notebooks/15_hallucination_guard.ipynb) |
 | 16 | Evaluating RAG | coming soon |
 | 17 | FastAPI, streaming, background worker | coming soon |
 | 18 | Auth, rate limiting, access control | coming soon |
