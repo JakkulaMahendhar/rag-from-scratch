@@ -4,3 +4,4 @@ __pycache__/
 .DS_Store
 sample_docs/
 chroma_data/
+eval_docs/
