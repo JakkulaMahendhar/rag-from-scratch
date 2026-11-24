@@ -5,3 +5,4 @@ __pycache__/
 sample_docs/
 chroma_data/
 eval_docs/
+containers/

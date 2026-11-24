@@ -25,7 +25,7 @@ locally with Ollama.
 | 16 | Evaluating RAG | [16_evaluating_rag.ipynb](notebooks/16_evaluating_rag.ipynb) · [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JakkulaMahendhar/rag-from-scratch/blob/main/notebooks/16_evaluating_rag.ipynb) |
 | 17 | FastAPI, streaming, background worker | [17_fastapi_streaming_worker.ipynb](notebooks/17_fastapi_streaming_worker.ipynb) · [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JakkulaMahendhar/rag-from-scratch/blob/main/notebooks/17_fastapi_streaming_worker.ipynb) |
 | 18 | Auth, rate limiting, access control | [18_auth_rate_limits_access.ipynb](notebooks/18_auth_rate_limits_access.ipynb) · [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JakkulaMahendhar/rag-from-scratch/blob/main/notebooks/18_auth_rate_limits_access.ipynb) |
-| 19 | Postgres, Alembic, Docker | coming soon |
+| 19 | Postgres, Alembic, Docker | [19_postgres_alembic_docker.ipynb](notebooks/19_postgres_alembic_docker.ipynb) · [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JakkulaMahendhar/rag-from-scratch/blob/main/notebooks/19_postgres_alembic_docker.ipynb) |
 | 20 | CI/CD and deployment | coming soon |
 
 ## Run locally
