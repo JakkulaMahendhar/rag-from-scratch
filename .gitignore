@@ -6,3 +6,6 @@ sample_docs/
 chroma_data/
 eval_docs/
 containers/
+notebooks/rag_pipeline.py
+notebooks/tests/
+notebooks/.github/
