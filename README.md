@@ -27,6 +27,7 @@ locally with Ollama.
 | 18 | Auth, rate limiting, access control | [18_auth_rate_limits_access.ipynb](notebooks/18_auth_rate_limits_access.ipynb) · [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JakkulaMahendhar/rag-from-scratch/blob/main/notebooks/18_auth_rate_limits_access.ipynb) |
 | 19 | Postgres, Alembic, Docker | [19_postgres_alembic_docker.ipynb](notebooks/19_postgres_alembic_docker.ipynb) · [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JakkulaMahendhar/rag-from-scratch/blob/main/notebooks/19_postgres_alembic_docker.ipynb) |
 | 20 | CI/CD and deployment | [20_ci_cd_deployment.ipynb](notebooks/20_ci_cd_deployment.ipynb) · [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JakkulaMahendhar/rag-from-scratch/blob/main/notebooks/20_ci_cd_deployment.ipynb) |
+| Bonus | Fixing it in production: conversation ownership + chat rate limit | [21_bonus_fixing_production.ipynb](notebooks/21_bonus_fixing_production.ipynb) (runs against a running copy of the app) |
 
 ## Run locally
 
